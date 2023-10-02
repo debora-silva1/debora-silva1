@@ -6,6 +6,10 @@ Minhas Habilidades:
 - Backend
 - Node.js
 
+<div>
+  <img align = "right" alt = "Rafa-yoda" src = "https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif"
+</div>
+  
 Para me encontrar
 
 <div>
