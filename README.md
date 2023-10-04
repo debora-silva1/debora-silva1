@@ -6,6 +6,7 @@ Meu nome é Débora Silva. Sou Pernambucana, Mãe e encantada com o mundo da tec
 
 Minhas Habilidades:
 - Backend
+- JavaScript
 - Node.js
 
 <div>
