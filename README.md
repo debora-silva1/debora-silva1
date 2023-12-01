@@ -1,4 +1,4 @@
-### Olá, Pessoas! Seja bem vindo(a)!👋
+### Olá, Pessoas! Sejam bem vindos(as)!👋
 
 
 Meu nome é Débora Silva. Sou Pernambucana, Mãe e encantada com o mundo da tecnologia. Atualmente sou estudante de Desenvolvimento em Software com foco em Back-end na Cubos Academy.
