@@ -43,6 +43,5 @@ Para me encontrar
 </div>
 
 
-![Snake animation](https://github.com/debora-silva1/debora-silva1/blob/output/github-contribution-grid-snake.svg)
 
 
